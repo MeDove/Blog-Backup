@@ -1,0 +1,5 @@
+git config --system http.sslcainfo "C:\Program Files\Git\mingw64\ssl\certs\ca-bundle.crt"
+git config --system http.sslverify false
+C:\Program Files\Git\etc\pki\ca-trust\extracted\openssl
+git config --system http.sslcainfo "C:\Program Files\Git\etc\pki\ca-trust\extracted\openssl\ca-bundle.trust.crt"
+ca-bundle.trust.crt
